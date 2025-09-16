@@ -86,8 +86,4 @@ Ensure apps you request (like "Word", "Excel", "Notepad") exist in the Start Men
 
 Automation may fail if the app takes time to load.
 
-📜 License
 
-MIT License © 2025 [Your Name]
-
-Do you want me to also create a requirements.txt for this repo so the setup is smooth?
