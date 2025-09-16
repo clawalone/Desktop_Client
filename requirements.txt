@@ -1,0 +1,12 @@
+# ===================== requirements.txt =====================
+# PySide6
+# google-generativeai==0.8.5
+# python-dotenv
+# pyautogui
+# pygetwindow
+# keyring
+# requests
+#
+# (Optional voice I/O)
+# # SpeechRecognition
+# # pyttsx3
